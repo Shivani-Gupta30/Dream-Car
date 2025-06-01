@@ -1,0 +1,20 @@
+.logo{
+    margin-left: auto;
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: #ec9f5f;
+}
+.body1{
+    background-color:aliceblue;
+}
+.content{
+    
+    align-content: center;
+    text-align: center;
+}
+.carousel-control-next-icon{
+    background-color: black;
+}
+.carousel-control-prev-icon{
+    background-color: black;
+}
